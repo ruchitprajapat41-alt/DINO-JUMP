@@ -1,0 +1,4 @@
+{
+    "levels": ["Desert Run", "Mountain Run", "Night Storm"],
+    "obstacles": ["Cactus", "Rock", "Bird", "Fire"]
+}
